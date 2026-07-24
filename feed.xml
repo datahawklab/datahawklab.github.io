@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>scriptautomation123.github.io</title>
-    <link href="https://github.io/feed.xml" rel="self" />
-    <link href="https://github.io" />
+    <link href="https://datahawklab.github.io/feed.xml" rel="self" />
+    <link href="https://datahawklab.github.io" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>swapan chakrabarty</name>
     </author>
-    <id>https://github.io</id>
+    <id>https://datahawklab.github.io</id>
 
 </feed>
